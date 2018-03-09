@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/ser">
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_search"/>
+    </group>
+    <item
+        android:id="@+id/add"
+        android:title="Add"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/delete"
+        android:title="Delete"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/refresh"
+        android:title="Refresh"
+        app:showAsAction="never" />
+
+</menu>

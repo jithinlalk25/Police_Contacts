@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "789771824311",
+    "firebase_url": "https://police-contacts-bc2f5.firebaseio.com",
+    "project_id": "police-contacts-bc2f5",
+    "storage_bucket": "police-contacts-bc2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789771824311:android:68bee8b9a0711a9f",
+        "android_client_info": {
+          "package_name": "com.example.jithin.police_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789771824311-ep7cq660gobh7msab0i1lq413mji7ird.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4vGrCs3yQAa1iyefQ_AHSPU_s2Ulmio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
